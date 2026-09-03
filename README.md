@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A66C2,100:8E2DE2&height=250&section=header&text=Omar%20Torbi&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Software%20Engineer%20%7C%20Full-Stack%20Architect%20%7C%203D%20WebCAD%20Expert%20%7C%20Cloud%20Systems&descAlignY=55&descSize=20" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A66C2,100:8E2DE2&height=250&section=header&text=Omar%20Torbi&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Software%20Engineer%20%7C%20Full-Stack%20Architect%20%7C%20Cloud%20Systems&descAlignY=55&descSize=20" width="100%"/>
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3500&pause=1000&color=0A66C2&center=true&vCenter=true&random=false&width=700&lines=Building+deterministic+in-browser+parametric+3D+CAD;Engineering+secure+enterprise+backends+with+Spring+Boot;Integrating+LLMs+%2B+Vector+Search+using+ChromaDB;Crafting+resilient+cloud+architectures+on+OCI;Translating+spatial+geometry+into+clean+code" alt="Typing SVG" />
@@ -44,7 +44,7 @@
 ## 🛠️ Core Technology Stack
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=java,spring,react,nextjs,threejs,ts,js,nodejs,mysql,oracle,postgres,docker,git,linux,vercel&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=java,spring,react,nextjs,threejs,ts,js,nodejs,mysql,postgres,docker,git,linux,vercel&theme=dark" alt="Tech Stack Icons"/>
 </div>
 
 | Domain | Technologies |
@@ -70,7 +70,7 @@
       <code>React</code> <code>Three.js</code> <code>OpenCascade.js</code> <code>TypeScript</code>
     </td>
     <td width="50%" valign="top">
-      <h3>💼 <a href="https://vercel.com/omarinho18">Elevate Recruitment Platform</a></h3>
+      <h3>💼 Elevate Recruitment Platform</h3>
       <p>Enterprise hiring operations hub featuring multi-tenant applicant tracking workflows, role-based dashboards, candidate scoring algorithms, and secure RESTful audit logs for recruitment transparency.</p>
       <img src="https://img.shields.io/badge/Scaleable%20API-Stateless%20JWT-8E2DE2?style=flat-square" alt="api"/>
       <img src="https://img.shields.io/badge/Role--Based%20ACL-Normalized%20Schema-0A66C2?style=flat-square" alt="security"/>
@@ -80,7 +80,7 @@
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3>📚 <a href="https://vercel.com/omarinho18">Sofia Digital Library</a></h3>
+      <h3>📚 Sofia Digital Library</h3>
       <p>A secure virtual study environment integrating semantic document search. Combines Spring Boot security with local vector embeddings via ChromaDB for low-latency contextual querying over PDF repositories.</p>
       <img src="https://img.shields.io/badge/Vector%20Search-Contextual%20RAG-8E2DE2?style=flat-square" alt="ai"/>
       <img src="https://img.shields.io/badge/Semantic%20Query-Low--Latency-0A66C2?style=flat-square" alt="latency"/>
@@ -98,8 +98,6 @@
   </tr>
 </table>
 
-> 🌐 *Explore production builds and interactive prototypes across all deployments on my [Vercel Dashboard](https://vercel.com/omarinho18).*
-
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:8E2DE2,100:0A66C2&height=5&width=100%"/>
 
 ## 📊 Engineering Metrics
@@ -116,20 +114,6 @@
 </div>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0A66C2,100:8E2DE2&height=5&width=100%"/>
-
-## 🐍 Contribution Velocity
-
-<div align="center">
-
-<!--START_SECTION:snake-->
-<img src="https://raw.githubusercontent.com/torbiomar/torbiomar/output/github-contribution-grid-snake-dark.svg" alt="contribution snake" width="100%"/>
-<!--END_SECTION:snake-->
-
-<sub>Automated Contribution Visualization via <a href="https://github.com/Platane/snk">Platane/snk</a></sub>
-
-</div>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:8E2DE2,100:0A66C2&height=5&width=100%"/>
 
 ## 🤝 Let's Engineer Something
 

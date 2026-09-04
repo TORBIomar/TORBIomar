@@ -1,30 +1,32 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A66C2,100:8E2DE2&height=200&section=header&text=Omar%20Torbi&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20%7C%20Full-Stack%20Developer&descAlignY=60&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:050509,45:00F5D4,75:7BFF00,100:FF2BD6&height=200&section=header&text=Omar%20Torbi&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20%7C%20Full-Stack%20Developer&descAlignY=60&descSize=18" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&duration=3000&pause=1000&color=8E2DE2&center=true&vCenter=true&width=800&lines=Building+modern+web+applications+%F0%9F%9A%80;Engineering+scalable+backend+systems+%E2%9A%99%EF%B8%8F;Exploring+AI%2C+3D+%26+cloud+technologies+%F0%9F%A4%96;Turning+ideas+into+real+software+%F0%9F%92%BB" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&duration=3000&pause=1000&color=00F5D4&center=true&vCenter=true&width=850&lines=Building+modern+web+applications+%F0%9F%9A%80;Engineering+scalable+backend+systems+%E2%9A%A1;Exploring+AI%2C+3D+%26+cloud+technologies+%F0%9F%A4%96;Turning+ideas+into+real+software+%F0%9F%94%A5" />
 
 <br/>
 
 <a href="https://www.linkedin.com/in/omar-torbi-b8340933a/">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/LinkedIn-Connect-00F5D4?style=for-the-badge&logo=linkedin&logoColor=050509&labelColor=050509"/>
 </a>
+
 <a href="https://github.com/torbiomar">
-<img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-Follow-7BFF00?style=for-the-badge&logo=github&logoColor=050509&labelColor=050509"/>
 </a>
+
 <a href="mailto:torbi.dev@outlook.com">
-<img src="https://img.shields.io/badge/Email-Contact-8E2DE2?style=for-the-badge&logo=microsoftoutlook&logoColor=white"/>
+<img src="https://img.shields.io/badge/Email-Contact-FF2BD6?style=for-the-badge&logo=microsoftoutlook&logoColor=ffffff&labelColor=050509"/>
 </a>
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=torbiomar&style=for-the-badge&color=8E2DE2&label=PROFILE+VIEWS"/>
+<img src="https://komarev.com/ghpvc/?username=torbiomar&style=for-the-badge&color=00F5D4&label=PROFILE+VIEWS&labelColor=050509"/>
 
 </div>
 
 ---
 
-## 👨‍💻 About Me
+## 🧬 About Me
 
 ```java
 public class OmarTorbi {
@@ -39,26 +41,23 @@ public class OmarTorbi {
         "Cloud & DevOps"
     };
 
-    String currentlyLearning = "Building better software 🚀";
+    String currentlyBuilding = "Cool things 🚀";
 }
 ```
 
 ---
 
-## 🛠️ Tech Stack
+## ⚡ Tech Stack
 
 <div align="center">
 
 <img src="https://skillicons.dev/icons?i=java,spring,react,nextjs,threejs,ts,js,nodejs,python,mysql,postgres,docker,git,linux,vercel&theme=dark" />
 
-</div>
+<br/><br/>
 
-<br/>
-
-<div align="center">
-
-`Java` `Spring Boot` `React` `Next.js` `TypeScript` `JavaScript` `Three.js`
-`Node.js` `Python` `MySQL` `PostgreSQL` `Oracle` `Docker` `Git` `Linux`
+`Java` `Spring Boot` `React` `Next.js` `TypeScript` `JavaScript`
+`Three.js` `Node.js` `Python` `MySQL` `PostgreSQL` `Oracle`
+`Docker` `Git` `Linux` `ChromaDB` `Gemini API`
 
 </div>
 
@@ -74,9 +73,11 @@ public class OmarTorbi {
 
 Browser-based CAD application for 3D tube modeling and geometry processing.
 
-**Stack**
+<img src="https://img.shields.io/badge/React-00F5D4?style=flat-square&logo=react&logoColor=050509"/>
+<img src="https://img.shields.io/badge/Three.js-7BFF00?style=flat-square&logo=threedotjs&logoColor=050509"/>
+<img src="https://img.shields.io/badge/TypeScript-FF2BD6?style=flat-square&logo=typescript&logoColor=ffffff"/>
 
-`React` `TypeScript` `Three.js` `OpenCascade.js`
+<br/><br/>
 
 <a href="https://zahiri-metal-3d-cad.vercel.app/">🔗 Live Demo</a>
 
@@ -88,9 +89,9 @@ Browser-based CAD application for 3D tube modeling and geometry processing.
 
 Recruitment platform featuring applicant management, role-based access and structured hiring workflows.
 
-**Stack**
-
-`Spring Boot` `Spring Security` `React` `MySQL`
+<img src="https://img.shields.io/badge/Spring%20Boot-7BFF00?style=flat-square&logo=springboot&logoColor=050509"/>
+<img src="https://img.shields.io/badge/React-00F5D4?style=flat-square&logo=react&logoColor=050509"/>
+<img src="https://img.shields.io/badge/MySQL-FF2BD6?style=flat-square&logo=mysql&logoColor=ffffff"/>
 
 </td>
 </tr>
@@ -102,9 +103,9 @@ Recruitment platform featuring applicant management, role-based access and struc
 
 Digital library combining document search with AI-powered semantic retrieval.
 
-**Stack**
-
-`Spring Boot` `ChromaDB` `Gemini API` `MySQL` `Docker`
+<img src="https://img.shields.io/badge/AI-FF2BD6?style=flat-square"/>
+<img src="https://img.shields.io/badge/ChromaDB-00F5D4?style=flat-square"/>
+<img src="https://img.shields.io/badge/RAG-7BFF00?style=flat-square"/>
 
 </td>
 
@@ -114,9 +115,9 @@ Digital library combining document search with AI-powered semantic retrieval.
 
 Spotify utility experimenting with custom playlist-shuffling algorithms.
 
-**Stack**
-
-`React` `Node.js` `Spotify Web API`
+<img src="https://img.shields.io/badge/React-00F5D4?style=flat-square&logo=react&logoColor=050509"/>
+<img src="https://img.shields.io/badge/Node.js-7BFF00?style=flat-square&logo=nodedotjs&logoColor=050509"/>
+<img src="https://img.shields.io/badge/Spotify-FF2BD6?style=flat-square&logo=spotify&logoColor=ffffff"/>
 
 </td>
 </tr>
@@ -128,27 +129,23 @@ Spotify utility experimenting with custom playlist-shuffling algorithms.
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=torbiomar&show_icons=true&hide_border=true&theme=transparent&title_color=0A66C2&icon_color=8E2DE2"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=torbiomar&show_icons=true&hide_border=true&theme=transparent&title_color=00F5D4&icon_color=7BFF00&text_color=ffffff"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=torbiomar&layout=compact&hide_border=true&theme=transparent&title_color=8E2DE2"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=torbiomar&layout=compact&hide_border=true&theme=transparent&title_color=FF2BD6&text_color=ffffff"/>
 
 <br/><br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=torbiomar&theme=transparent&hide_border=true&ring=0A66C2&fire=8E2DE2&currStreakLabel=8E2DE2"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=torbiomar&theme=transparent&hide_border=true&ring=00F5D4&fire=FF2BD6&currStreakLabel=7BFF00&sideLabels=ffffff&dates=888888"/>
 
 </div>
 
 ---
 
-## 🎯 What I'm Into
+## 🌌 Interests
 
 <div align="center">
 
-🧠 **AI & RAG**
-📐 **3D & Geometry**
-⚙️ **Backend Engineering**
-☁️ **Cloud & DevOps**
-💻 **Full-Stack Development**
+**AI**　✦　**3D Web**　✦　**Backend**　✦　**Cloud**　✦　**DevOps**
 
 </div>
 
@@ -156,18 +153,18 @@ Spotify utility experimenting with custom playlist-shuffling algorithms.
 
 <div align="center">
 
-### 💬 Let's build something interesting.
+### `// Let's build something insane.`
 
 <a href="https://www.linkedin.com/in/omar-torbi-b8340933a/">
-<img src="https://img.shields.io/badge/LinkedIn-MESSAGE%20ME-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/LINKEDIN-00F5D4?style=for-the-badge&logo=linkedin&logoColor=050509"/>
 </a>
 
 <a href="mailto:torbi.dev@outlook.com">
-<img src="https://img.shields.io/badge/Email-GET%20IN%20TOUCH-8E2DE2?style=for-the-badge&logo=microsoftoutlook&logoColor=white"/>
+<img src="https://img.shields.io/badge/EMAIL-FF2BD6?style=for-the-badge&logo=microsoftoutlook&logoColor=ffffff"/>
 </a>
 
 <br/><br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8E2DE2,100:0A66C2&height=100&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF2BD6,40:7BFF00,70:00F5D4,100:050509&height=100&section=footer" width="100%"/>
 
 </div>

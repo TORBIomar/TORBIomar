@@ -7,7 +7,8 @@
     <a href="https://torbiomar.vercel.app/">portfolio</a> ·
     <a href="https://github.com/torbiomar">github</a> ·
     <a href="https://www.linkedin.com/in/omar-torbi-b8340933a/">linkedin</a> ·
-    <a href="mailto:torbi.dev@outlook.com">email</a>
+    <a href="mailto:torbi.dev@outlook.com">email</a> ·
+    <img src="https://komarev.com/ghpvc/?username=torbiomar&style=flat&color=39ff88&label=profile+views&labelColor=0d1117" alt="profile views" valign="middle"/>
   </sub>
 </div>
 
@@ -23,6 +24,10 @@ frontend   react · typescript · three.js
 data       oracle · mysql · chromadb
 tooling    docker · git · rest apis · gemini api
 ```
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=java,spring,react,ts,js,threejs,django,laravel,mysql,oracle,docker,git&theme=dark&perline=6" alt="tech icons"/>
+</div>
 
 ### Projects
 
@@ -46,4 +51,5 @@ Playlist-shuffling utility built on the Spotify API.
 
 <div align="center">
   <img height="160" src="https://github-readme-stats.vercel.app/api?username=torbiomar&show_icons=true&hide_border=true&theme=transparent&title_color=39ff88&icon_color=39ff88&text_color=e6edf3&bg_color=00000000"/>
+  <img height="160" src="https://github-readme-streak-stats.herokuapp.com/?user=torbiomar&hide_border=true&background=00000000&ring=39ff88&fire=39ff88&currStreakLabel=39ff88&sideLabels=e6edf3&currStreakNum=e6edf3&sideNums=e6edf3&dates=6e7681"/>
 </div>

@@ -31,7 +31,7 @@
 * 🗄️ Relational schema design and performance tuning on **MySQL**, **Oracle DB**, and **PostgreSQL**
 * ☁️ Containerization, CI/CD, and cloud workflows with **Docker**, **Linux**, **OCI (Oracle Cloud)**, and **Vercel**
 * 🌍 I'm based in **Rabat, Morocco**
-* 🖥️ See my portfolio at **[torbiomar.vercel.app](https://omartorbi.engineer)**
+* 🖥️ See my portfolio at **[omartorbi.engineer](https://omartorbi.engineer)**
 * ✉️ You can contact me at **[torbi.dev@outlook.com](mailto:torbi.dev@outlook.com)**
 * 👥 I'm looking to collaborate on **Full-Stack Applications**, **3D Web Engineering**, and **Cloud/AI Systems**
 

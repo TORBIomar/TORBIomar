@@ -89,6 +89,6 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=torbiomar&show_icons=true&hide_border=true&theme=transparent&title_color=39ff88&icon_color=39ff88&text_color=e6edf3&bg_color=00000000&cache_seconds=1800" alt="Omar's GitHub Stats"/>
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=torbiomar&show_icons=true&hide_border=true&theme=transparent&title_color=39ff88&icon_color=39ff88&text_color=e6edf3&bg_color=00000000&cache_seconds=1800" />
   <img height="160" src="https://github-readme-streak-stats.herokuapp.com/?user=torbiomar&timezone=Africa/Casablanca&hide_border=true&background=00000000&ring=39ff88&fire=39ff88&currStreakLabel=39ff88&sideLabels=e6edf3&currStreakNum=e6edf3&sideNums=e6edf3&dates=6e7681&cache_seconds=1800" alt="Omar's Streak Stats"/>
 </div>

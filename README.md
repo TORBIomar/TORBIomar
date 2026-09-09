@@ -89,8 +89,8 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=torbiomar&show_icons=true&theme=transparent&title_color=39ff88&text_color=e6edf3&icon_color=39ff88&hide_border=true&cache_seconds=1800" alt="Omar's GitHub Stats" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=torbiomar&layout=compact&theme=transparent&title_color=39ff88&text_color=e6edf3&hide_border=true&cache_seconds=1800" alt="Omar's Top Languages" />
+  <img height="165" src="https://github-readme-stats-fast.vercel.app/api?username=torbiomar&show_icons=true&bg_color=00000000&title_color=39ff88&text_color=e6edf3&icon_color=39ff88&hide_border=true&cache_seconds=1800" alt="Omar's GitHub Stats" />
+  <img height="165" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=torbiomar&layout=compact&bg_color=00000000&title_color=39ff88&text_color=e6edf3&hide_border=true&cache_seconds=1800" alt="Omar's Top Languages" />
   <br/><br/>
-  <img height="160" src="https://github-readme-streak-stats.herokuapp.com/?user=torbiomar&timezone=Africa/Casablanca&hide_border=true&background=00000000&ring=39ff88&fire=39ff88&currStreakLabel=39ff88&sideLabels=e6edf3&currStreakNum=e6edf3&sideNums=e6edf3&dates=6e7681&cache_seconds=1800" alt="Omar's Streak Stats"/>
+  <img height="165" src="https://streak-stats.demolab.com/?user=torbiomar&theme=transparent&hide_border=true&ring=39ff88&fire=39ff88&currStreakLabel=39ff88&sideLabels=e6edf3&currStreakNum=e6edf3&sideNums=e6edf3&dates=6e7681" alt="Omar's Streak Stats"/>
 </div>

@@ -2,7 +2,7 @@
   <img src="./assets/terminal-card.svg" width="760" alt="Omar Torbi — full-stack developer" />
   
   <br/><br/>
-
+  
   <a href="https://www.omartorbi.engineer/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
   </a>

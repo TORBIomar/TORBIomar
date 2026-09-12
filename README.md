@@ -74,7 +74,6 @@
   <img src="https://img.shields.io/badge/OCI-F80000?style=for-the-badge&logo=oracle&logoColor=white" alt="OCI"/>
   <img src="https://img.shields.io/badge/Gemini_API-8E75B2?style=for-the-badge&logo=google&logoColor=white" alt="Gemini API"/>
 </p>
-
 ---
 
 ## 📌 Featured Projects

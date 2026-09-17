@@ -5,7 +5,7 @@
   <a href="https://www.omartorbi.engineer/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
   </a>
-  
+
   <a href="https://www.linkedin.com/in/omar-torbi-b8340933a/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>

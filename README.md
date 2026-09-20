@@ -5,7 +5,6 @@
   <a href="https://www.omartorbi.engineer/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
   </a>
-
   <a href="https://www.linkedin.com/in/omar-torbi-b8340933a/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
@@ -46,6 +45,7 @@
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js"/>
   <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS"/>
 </p>
+
 ### ⚙️ Backend Development
 <p>
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
@@ -71,6 +71,7 @@
   <img src="https://img.shields.io/badge/OCI-F80000?style=for-the-badge&logo=oracle&logoColor=white" alt="OCI"/>
   <img src="https://img.shields.io/badge/Gemini_API-8E75B2?style=for-the-badge&logo=google&logoColor=white" alt="Gemini API"/>
 </p>
+
 ---
 
 ## 📌 Featured Projects
@@ -85,7 +86,9 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="180" src="https://streak-stats.demolab.com/?user=torbiomar&theme=transparent&hide_border=true&ring=39ff88&fire=39ff88&currStreakLabel=39ff88&sideLabels=e6edf3&currStreakNum=e6edf3&sideNums=e6edf3&dates=6e7681" alt="Omar's Streak Stats"/>
+  <img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=torbiomar&theme=transparent&hide_border=true&ring=39ff88&fire=39ff88&currStreakLabel=39ff88&sideLabels=e6edf3&currStreakNum=e6edf3&sideNums=e6edf3&dates=6e7681&cache_seconds=1800" alt="Omar's Streak Stats"/>
+  
   <br/><br/>
+  
   <img height="165" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=torbiomar&layout=compact&bg_color=00000000&title_color=39ff88&text_color=e6edf3&hide_border=true&cache_seconds=1800" alt="Omar's Top Languages" />
 </div>

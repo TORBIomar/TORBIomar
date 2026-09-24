@@ -76,6 +76,7 @@
 
 ## 📌 Featured Projects
 
+* **[Creator Outreach Matrix](https://github.com/TORBIomar/creator-outreach-matrix)** — Autonomous TikTok influencer discovery & AI cold outreach pipeline featuring Playwright bot evasion, n8n workflow automations, and local LLM intent analysis (*Python, Playwright, n8n, Zoho API*).
 * **[3D CAD & Laser Cutting Engine](https://zahiri-metal-3d-cad.vercel.app/)** — Browser-based CAD kernel integration for parametric tube modeling and dynamic CNC fiber laser geometry calculation (*React, Three.js, OpenCascade.js, TypeScript*).
 * **Elevate Recruitment Platform** — Role-based recruitment platform with granular access control and structured hiring pipelines (*Spring Boot, Spring Security, React, MySQL*).
 * **Sofia Digital Library** — Low-latency digital study environment featuring contextual document retrieval over PDF files (*Spring Boot, ChromaDB, Gemini API, MySQL*).
@@ -86,9 +87,9 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=torbiomar&theme=transparent&hide_border=true&ring=39ff88&fire=39ff88&currStreakLabel=39ff88&sideLabels=e6edf3&currStreakNum=e6edf3&sideNums=e6edf3&dates=6e7681&cache_seconds=1800" alt="Omar's Streak Stats"/>
+  <img height="180" src="https://streak-stats.demolab.com/?user=torbiomar&theme=transparent&hide_border=true&ring=39ff88&fire=39ff88&currStreakLabel=39ff88&sideLabels=e6edf3&currStreakNum=e6edf3&sideNums=e6edf3&dates=6e7681&timezone=Africa/Casablanca" alt="Omar's Streak Stats"/>
   
   <br/><br/>
   
-  <img height="165" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=torbiomar&layout=compact&bg_color=00000000&title_color=39ff88&text_color=e6edf3&hide_border=true&cache_seconds=1800" alt="Omar's Top Languages" />
+  <img height="165" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=torbiomar&layout=compact&bg_color=00000000&title_color=39ff88&text_color=e6edf3&hide_border=true" alt="Omar's Top Languages" />
 </div>

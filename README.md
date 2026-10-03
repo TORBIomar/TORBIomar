@@ -79,7 +79,6 @@
 * **Elevate Recruitment Platform** — Role-based recruitment platform with granular access control and structured hiring pipelines (*Spring Boot, Spring Security, React, MySQL*).
 * **Sofia Digital Library** — Low-latency digital study environment featuring contextual document retrieval over PDF files (*Spring Boot, ChromaDB, Gemini API, MySQL*).
 * **True Shuffler** — Spotify Web API client implementing true-randomized playlist-shuffling logic (*React, Node.js*).
-
 ---
 
 ## 📊 GitHub Stats

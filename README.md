@@ -80,7 +80,6 @@
 * **Sofia Digital Library** — Low-latency digital study environment featuring contextual document retrieval over PDF files (*Spring Boot, ChromaDB, Gemini API, MySQL*).
 * **True Shuffler** — Spotify Web API client implementing true-randomized playlist-shuffling logic (*React, Node.js*).
 ---
-
 ## 📊 GitHub Stats
 
 <div align="center">

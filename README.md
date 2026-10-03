@@ -15,7 +15,6 @@
 </div>
 <br/>
 # 👋 Welcome to my GitHub Profile!
-
 ### Hi! My name is Torbi Omar
 **Full-Stack Developer | 3D WebCAD & Cloud Systems | Engineering Student — EMSI**
 

@@ -114,7 +114,6 @@ identity:
     <img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=torbiomar&layout=compact&theme=transparent&title_color=39ff88&text_color=e6edf3&hide_border=true" alt="Omar's Top Languages" />
   </a>
 </div>
-
 ---
 <div align="center">
   <sub>⚡ Designed & Engineered with precision by <b>Omar Torbi</b> · Powered by GitHub</sub>

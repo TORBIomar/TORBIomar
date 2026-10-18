@@ -8,7 +8,6 @@
   <a href="https://github.com/TORBIomar">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=39FF88&center=true&vCenter=true&width=700&lines=Full-Stack+Software+Engineer+%26+Architect;3D+WebCAD+%26+Three.js+Graphics+Specialist;AI+Agent+Pipelines+%26+Vector+RAG+Systems;Computer+%26+Network+Engineering+at+EMSI+Rabat" alt="Typing SVG" />
   </a>
-
   <br/><br/>
   <!-- Social & Profile Badges -->
   <a href="https://www.omartorbi.engineer/" target="_blank">

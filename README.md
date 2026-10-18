@@ -117,7 +117,6 @@ identity:
 </div>
 
 ---
-
 <div align="center">
   <sub>⚡ Designed & Engineered with precision by <b>Omar Torbi</b> · Powered by GitHub</sub>
 </div>

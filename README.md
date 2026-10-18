@@ -44,7 +44,6 @@ identity:
 - ⚡ **Autonomous Pipelines**: Engineered the **[Creator Outreach Matrix](https://github.com/TORBIomar/creator-outreach-matrix)**, combining Playwright stealth scraping, n8n webhook orchestration, Zoho Mail API, and local LLM reply sentiment classification.
 - 🌐 **Interactive Portfolio**: Live showcase at **[omartorbi.engineer](https://www.omartorbi.engineer)** with an interactive CRT terminal emulator and 3D scenes.
 - 👥 Open to collaborations on **Full-Stack SaaS**, **3D Web Engineering (Three.js/Wasm)**, and **Cloud/AI Systems**.
-
 ---
 
 ### 🛠️ Tech Stack & Ecosystem

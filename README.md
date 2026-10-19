@@ -92,7 +92,7 @@ identity:
 | **[Elevate](https://github.com/TORBIomar/Elevate)** | Next-gen recruitment platform & ATS with role segregation, Kanban candidate tracking, and REST API. | React 19, Spring Boot 3, Tailwind, MySQL | [Code](https://github.com/TORBIomar/Elevate) |
 | **[zen-shelf-hub](https://github.com/TORBIomar/zen-shelf-hub)** | AI-powered virtual library platform with intelligent book analysis, reading habits, and Docker deployment. | React, Spring Boot 3, Docker, Docker Compose | [Code](https://github.com/TORBIomar/zen-shelf-hub) |
 | **[driveflow-car-rental](https://github.com/TORBIomar/driveflow-car-rental)** | End-to-end vehicle rental & dealership SaaS with real-time fleet bookings and Stripe checkout. | React, Vite, Django REST, Stripe | [Code](https://github.com/TORBIomar/driveflow-car-rental) |
-| **[portfolio](https://github.com/TORBIomar/portfolio)** | Engineering portfolio featuring retro-modern CRT CLI terminal emulator and Three.js 3D canvas. | Next.js 16, React 19, Tailwind, Three.js | [Code](https://github.com/TORBIomar/portfolio) • [Website](https://www.omartorbi.engineer) |
+| **[portfolio](https://github.com/TORBIomar/portfolio)** | Engineering portfolio featuring retro-modern CRT CLI terminal emulator, UNIX curl CLI endpoint, and Three.js 3D canvas. | Next.js 16, React 19, Tailwind, Three.js | [Code](https://github.com/TORBIomar/portfolio) • [Website](https://www.omartorbi.engineer) |
 
 ---
 

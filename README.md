@@ -42,7 +42,7 @@ identity:
 - 🎓 **Engineering Student** in Computer and Network Engineering (**IIR**) at **EMSI Rabat**.
 - 📐 **Flagship Work**: Built **[Zahiri Metal CAD](https://zahiri-metal-3d-cad.vercel.app/)**, an industrial browser-based 3D parametric CAD kernel with CSG boolean geometry, DIN 6935 unroll calculators, and ISO-6983 G-code export for CNC fiber laser cutters.
 - ⚡ **Autonomous Pipelines**: Engineered the **[Creator Outreach Matrix](https://github.com/TORBIomar/creator-outreach-matrix)**, combining Playwright stealth scraping, n8n webhook orchestration, Zoho Mail API, and local LLM reply sentiment classification.
-- 🌐 **Interactive Portfolio**: Live showcase at **[omartorbi.engineer](https://www.omartorbi.engineer)** with an interactive CRT terminal emulator and 3D scenes.
+- 🌐 **Interactive Portfolio**: Live showcase at **[omartorbi.engineer](https://www.omartorbi.engineer)** with an interactive CRT terminal emulator, UNIX `curl` CLI endpoint, and 3D scenes.
 - 👥 Open to collaborations on **Full-Stack SaaS**, **3D Web Engineering (Three.js/Wasm)**, and **Cloud/AI Systems**.
 ---
 

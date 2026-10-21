@@ -94,7 +94,6 @@ identity:
 | **[portfolio](https://github.com/TORBIomar/portfolio)** | Engineering portfolio featuring retro-modern CRT CLI terminal emulator, UNIX curl CLI endpoint, and Three.js 3D canvas. | Next.js 16, React 19, Tailwind, Three.js | [Code](https://github.com/TORBIomar/portfolio) • [Website](https://www.omartorbi.engineer) |
 
 ---
-
 ### 🔥 Activity & Streak Metrics
 
 <div align="center">

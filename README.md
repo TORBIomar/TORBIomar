@@ -1,7 +1,7 @@
 <div align="center">
   <!-- Interactive Terminal Card -->
   <img src="./assets/terminal-card.svg" width="760" alt="Omar Torbi — Full-Stack Developer" />
-  
+
   <br/><br/>
   <!-- Dynamic Typing Header -->
   <a href="https://github.com/TORBIomar">
